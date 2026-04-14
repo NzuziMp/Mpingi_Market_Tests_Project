@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Search, Menu, X, Bell, Heart, Plus, ChevronDown, LogOut, User, LayoutDashboard, Globe } from 'lucide-react';
+import { Search, Menu, X, Heart, Plus, ChevronDown, LogOut, User, LayoutDashboard, Globe } from 'lucide-react';
 import { useAuth } from '../../contexts/AuthContext';
 
 interface HeaderProps {
