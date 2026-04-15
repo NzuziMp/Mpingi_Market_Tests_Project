@@ -1,4 +1,4 @@
-import { Heart, MapPin, Clock, Eye, Tag } from 'lucide-react';
+import { Heart, MapPin, Clock} from 'lucide-react';
 import type { Listing } from '../../lib/types';
 import { formatDistanceToNow } from '../../lib/utils';
 
